@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/UUNlWv7pmr516/giphy.gif" width="300" />
     <h1 align="center">Hello world 👋, Im Franko</h1>
-    <h3 align="center">A passionate web full developer and cibersecurity lover, from Argentina</h3>
+    <h3 align="center">A passionate web developer and cibersecurity lover, from Argentina</h3>
 </div>
 
 <div align="left">
